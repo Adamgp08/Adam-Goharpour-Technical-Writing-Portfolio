@@ -26,7 +26,7 @@ Continuous Improvement Documentation <br>
 Microsoft Office, Wordpress | Squarespace | Canva | Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam |  Scribus |  Visio <br>
 
 ## Interests 
-Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <br>
+Archery and target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <br>
 
 ## Contact Info 
 
