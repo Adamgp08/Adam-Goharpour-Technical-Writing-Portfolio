@@ -17,10 +17,10 @@ Education <br>
   - Current events, society, and technology articles, English reading & writing assessments
     
 Quick Guides <br>
-  - AutoCad quick command cheatsheets, Writing Publications quick reference guide <br>
+  - AutoCad Quick Command cheatsheets, Writing Publications quick reference guide <br>
     
 Continuous Improvement Documentation <br>
-  - 5S planning brochures for shipping & receiving departments <br>
+  - 5S Planning brochures for shipping & receiving departments <br>
 
 ## Software Competencies
 Microsoft Office, Wordpress | Squarespace | Canva | Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam |  Scribus |  Visio <br>
