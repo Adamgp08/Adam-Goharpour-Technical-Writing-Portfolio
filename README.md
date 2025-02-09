@@ -23,7 +23,7 @@ Continuous Improvement Documentation <br>
   - 5S Planning brochures for shipping & receiving departments <br>
 
 ## Software Competencies
-Microsoft Office, Wordpress | Squarespace | Canva | Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam |  Scribus |  Visio <br>
+Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam | Canva | Squarespace | Scribus |  Visio | Wordpress <br>
 
 ## Interests 
 Archery and target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <br>
