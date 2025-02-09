@@ -14,11 +14,13 @@ I continue to study, research, and add to my skills through projects, developing
 [Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
 
 Education <br>
-  - Current events, society, and technology articles, English reading & writing assessments 
+  - Current events, society, and technology articles, English reading & writing assessments
+    
 Quick Guides <br>
-  - AutoCad quick command cheatsheets, Writing Publications quick reference guide
+  - AutoCad quick command cheatsheets, Writing Publications quick reference guide <br>
+    
 Continuous Improvement Documentation <br>
-  - 5S planning brochures for shipping & receiving departments
+  - 5S planning brochures for shipping & receiving departments <br>
 
 ## Software Competencies
 Microsoft Office, Wordpress | Squarespace | Canva | Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam |  Scribus |  Visio <br>
