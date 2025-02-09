@@ -13,12 +13,18 @@ I continue to study, research, and add to my skills through projects, developing
 
 [Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
 
-- Education
-- Quick Guides
-- Continuous Improvement
+Education <br>
+  - Current events, society, and technology articles, English reading & writing assessments 
+Quick Guides <br>
+  - AutoCad quick command cheatsheets, Writing Publications quick reference guide
+Continuous Improvement Documentation <br>
+  - 5S planning brochures for shipping & receiving departments
+
+## Software Competencies
+Microsoft Office, Wordpress | Squarespace | Canva | Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam |  Scribus |  Visio <br>
 
 ## Interests 
-Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <p>
+Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <br>
 
 ## Contact Info 
 
