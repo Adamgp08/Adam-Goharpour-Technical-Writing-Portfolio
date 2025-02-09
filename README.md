@@ -9,7 +9,7 @@ With 3 years of overseas teaching experience, I have worked closely with educato
 I continue to study, research, and add to my skills through projects, developing new training documents, technical guides, reference sheets, and other creative multimedia content.<p>
 
 # Projects <p>
-- [Portfolio] (https://github.com/Adamgp08/adamgp08.github.io.git)
+[Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
 - Education
 - Quick Guides
 - Continuous Improvement
