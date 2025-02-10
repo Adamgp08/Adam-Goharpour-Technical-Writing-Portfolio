@@ -15,10 +15,11 @@ I continue to study, research, and add to my skills through projects, developing
 [Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
 
 Education <br>
-  - Articles covering: farmers protests in India, use of Augmented Reality in simulating surgeries, Lab-cultivated meats and the future of food security, English reading & writing assessments
+  - Articles: Farmers Protests in India, Use of Augmented Reality in Simulating Surgeries, Lab-cultivated Meats and Future Food Security
+  - English reading & writing assessments i.e quizzes, sample essay questions for university entrance examinations, grammar and vocabulary reference booklets, multiple choice tests
     
 Quick Guides <br>
-  - AutoCad Quick Command cheatsheets, Writing Publications quick reference guide <br>
+  - AutoCad Quick Command Cheatsheet, Writing Publications Quick Reference Guide <br>
 
 Instruction Manuals
   - TeleMental Health Jabber operations manual, Fieldwire instructions for logging completed tasks onto architectural floor plans
