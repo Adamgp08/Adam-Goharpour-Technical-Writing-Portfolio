@@ -1,4 +1,4 @@
-# Technical Writing 
+# Technical Writing Portfolio
 
 ## About Me
 
@@ -12,7 +12,7 @@ I continue to study, research, and add to my skills through projects, developing
 
 ## Projects ![Image Alt](https://github.com/Adamgp08/adamgp08.github.io/blob/fcc345c7e009d590f9a17ba50f1e759925a9daab/docs/assets/vecteezy_a-file-with-gears-and-a-folder_53927935.jpg)
 
-### [Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
+### [My Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
 
 Education <br>
   - Articles: Farmers Protests in India, Use of Augmented Reality in Simulating Surgeries, Lab-cultivated Meats and Future Food Security
