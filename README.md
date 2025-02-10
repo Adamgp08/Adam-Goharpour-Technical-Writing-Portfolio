@@ -10,7 +10,7 @@ Having travelled around the world, I relish exploring new cultures and ideas. Wi
 
 I continue to study, research, and add to my skills through projects, developing new training documents, technical guides, reference sheets, and other creative multimedia content.<br>
 
-![Image Alt](https://github.com/Adamgp08/adamgp08.github.io/blob/Technical-Writing-Portfolio/vecteezy_a-file-with-gears-and-a-folder_53927935.jpg?raw=true)
+![Image 1](docs/assets/image1.jpg)
 
 ## Projects 
 
