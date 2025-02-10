@@ -12,7 +12,7 @@ I continue to study, research, and add to my skills through projects, developing
 
 ## Projects ![Image Alt](https://github.com/Adamgp08/adamgp08.github.io/blob/4fa712bb06777f280c4fc69a1bb36dac0f3e7604/docs/assets/vecteezy_a-file-with-gears-and-a-folder_53927935.jpg)
 
-[Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
+### [Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
 
 Education <br>
   - Articles: Farmers Protests in India, Use of Augmented Reality in Simulating Surgeries, Lab-cultivated Meats and Future Food Security
