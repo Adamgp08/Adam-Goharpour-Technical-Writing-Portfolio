@@ -13,7 +13,6 @@ I continue to study, research, and add to my skills through projects, developing
 ![Image 1](docs/assets/image1.jpg)
 
 ## Projects 
-
 ### [My Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
 
 Education <br>
