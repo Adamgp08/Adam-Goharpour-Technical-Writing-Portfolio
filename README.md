@@ -1,4 +1,4 @@
-# Technical Writing Portfolio
+# Technical Writing 
 
 ## About Me
 
@@ -10,7 +10,7 @@ Having travelled around the world, I relish exploring new cultures and ideas. Wi
 
 I continue to study, research, and add to my skills through projects, developing new training documents, technical guides, reference sheets, and other creative multimedia content.<br>
 
-## Projects ![Image Alt](https://github.com/Adamgp08/adamgp08.github.io/blob/4fa712bb06777f280c4fc69a1bb36dac0f3e7604/docs/assets/vecteezy_a-file-with-gears-and-a-folder_53927935.jpg)
+## Projects ![Image Alt](https://github.com/Adamgp08/adamgp08.github.io/blob/fcc345c7e009d590f9a17ba50f1e759925a9daab/docs/assets/vecteezy_a-file-with-gears-and-a-folder_53927935.jpg)
 
 ### [Portfolio](https://github.com/Adamgp08/adamgp08.github.io.git)
 
