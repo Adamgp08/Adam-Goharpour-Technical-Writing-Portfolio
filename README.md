@@ -31,7 +31,7 @@ Continuous Improvement Documentation <br>
   - 5S Planning brochures for shipping & receiving departments, Streamlined SOPs for clinic new patient intake processes <br>
   - TeleMental Health expansion recommendations and briefing memos <br>
   - Kanban signage boards and 5S reference guides <br>
-  
+
 ## Software Competencies
 Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam | Canva | D2L LMS | Monday.com | Squarespace | Scribus |  Visio | Wordpress <br>
 
