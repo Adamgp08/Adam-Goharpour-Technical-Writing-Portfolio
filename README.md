@@ -4,7 +4,7 @@
 
 Hi, my name is Adam Goharpour
 
-I am an experienced and versatile professional with a multidisciplinary background in project management, human resources, and education. Throughout my career, I have developed clear and concise technical documentation. Some examples include: process manuals, workflow documentation, and compliance materials. I have written SOPs on operating Telehealth equipment and software, safety checklists, on-site task verification SOPs for construction installers, and quick-step guides to medical records handling procedures.<br>
+I am an experienced and versatile professional with a multidisciplinary background in project management, human resources, and education. Throughout my career, I have developed clear and concise technical documentation. Some examples include: process manuals, workflow documentation, and compliance materials. I have written SOPs for operation of Telehealth equipment and software, safety checklists, on-site task verification SOPs for construction installers, and quick-step guides for medical records handling procedures.<br>
 
 Having travelled around the world, I relish exploring new cultures and ideas. During my 3 years teaching overseas, I worked closely with educators to develop English language assessments, and reading, writing, listening, and speaking exercises. As an Assistant Language Teacher in Yamagata City Japan, I provided language instruction and coaching to children, teens, and adults. My work also included writing articles covering current events and technological innovations around the world. Utilizing Adobe Premier Pro and InDesign, I created eye catching and immersive content for classes to engage in and discuss.
 
