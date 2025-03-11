@@ -18,18 +18,21 @@ I continue to study, research, and add to my skills through new projects, develo
 Education <br>
   - Articles: Farmers Protests in India, Use of Augmented Reality in Simulating Surgeries, Lab-cultivated Meats and Future Food Security
   - English reading & writing assessments i.e quizzes, sample essay questions for university entrance examinations, grammar and vocabulary reference booklets, multiple choice tests
+  - English course grading rubrik, class syllabus
     
 Quick Guides <br>
   - AutoCad Quick Command Cheatsheet, Writing Publications Quick Reference Guide <br>
 
 Instruction Manuals
   - TeleMental Health Jabber operations manual, Fieldwire instructions for logging completed tasks onto architectural floor plans
+  - Step by step instructions on new patient administrative intake and records management procedures for Mental Health and Substance Use department
     
 Continuous Improvement Documentation <br>
   - 5S Planning brochures for shipping & receiving departments, Streamlined SOPs for clinic new patient intake processes <br>
-
+  - TeleMental Health expansion recommendations and briefing memos <br>
+  - Kanban signage boards and 5S reference guides <br>
 ## Software Competencies
-Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam | Canva | Squarespace | Scribus |  Visio | Wordpress <br>
+Autocad | Adobe InDesign | Adobe Premier Pro | Bluebeam | Canva | D2L LMS | Monday.com | Squarespace | Scribus |  Visio | Wordpress <br>
 
 ## Interests 
 Archery and target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <br>
